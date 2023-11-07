@@ -1,1 +1,1 @@
-# Quark Linux website
+# Anthos Linux website
