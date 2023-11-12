@@ -30,7 +30,7 @@
     padding: 0 !important;
     height: 40px !important;
     width: 225px !important;
-    background: url(archnavbar/calculus.png) no-repeat !important;
+    background: url(navbar/anthos.png) no-repeat !important;
     background-size: 140px 40px;
 }
 
@@ -41,7 +41,7 @@
         padding: 0 !important;
         height: 40px !important;
         width: 190px !important;
-        background: url(archnavbar/Quark2.png) no-repeat !important;
+        background: url(navbar/anthos.png) no-repeat !important;
         background-size: 100% !important
     }
 }
